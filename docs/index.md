@@ -62,7 +62,7 @@ description: Collaborate with us !
 我们在非编码RNA(ncRNA)测序和生物信息学研究中积累了10余年的丰富经验，例如，我们在模式生物和肝癌样本中通过测序和生物信息学分析发现了很多新的lncRNA（Science 2010; Nature 2012; Nature 2014; Nature Communications 2017), 其中有不少具有很好的标志物特性。从2017年起，实验室开始大力发展针对体液无创检测技术的研究，我们已经克服了体液游离RNA易降解及微量建库的技术难题，开发了自主研发的超微量RNA测序技术i-SMART(专利申请号：201810607652X）和基于机器学习和人工智能的生物信息学方法RNAfinder（专利号：2016108069288）和exSEEK（专利申请号：202010618721.4）(Genome Res. 2011; Nucleic Acids Res. 2015; Nucleic Acids Res. 2017a)，发现了一些新的exRNA标志物（专利申请号:2018110094643)(Clinical Chemistry 2019)，积累了癌症相关的RNA数据库（著作权号：2016R11S367236）(Nucleic Acids Res. 2017b; Nucleic Acids Res. 2019)，为癌症无创检测试剂盒的开发提供有力的支持。
 
 > 针对新型RNA的10余年研究经验和主要成果
-> ![针对新型RNA的10余年研究经验和主要成果](image/rna_study_10years.png)
+> ![针对新型RNA的10余年研究经验和主要成果](docs/open/image/rna_study_10years.png)
 
 > 各种无创检测（液体活检）技术对比
 > ![](image/dba_small.png)
